@@ -8,7 +8,7 @@ Aplikasi ini dirancang untuk mendukung **pertanian presisi (precision farming)**
 
 ## 🔗 Live Application
 **Streamlit Version**  
-👉 https://soweasy.streamlit.app/
+👉 
 
 ---
 
